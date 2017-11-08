@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+*.pyc
+*.egg-info/
+build/
+dist/
+scratch/
+.idea/
+.DS_Store
+bo_eg*.png
+gif/
+/README.md
+/setup.cfg
+/setup.py
+/LICENSE
+/tests
+/bays
